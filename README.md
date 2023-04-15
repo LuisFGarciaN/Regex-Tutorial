@@ -86,4 +86,4 @@ Look-ahead and look-behind are advanced features in regex denoted by '(?=...)' f
 
 * Luis Garcia repository: [GitHub](https://github.com/LuisFGarciaN)
 * Luis Garcia: [email](mailto:luisluisfgarcia096@gmail.com).
-* [GitHubGis] :(https://gist.github.com/LuisFGarciaN/8b327da70ade1f5c717b6473de4836a4)
+* [GitHubGis](https://gist.github.com/LuisFGarciaN/8b327da70ade1f5c717b6473de4836a4)
